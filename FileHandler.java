@@ -30,8 +30,8 @@ public class FileHandler {
                 
         //writerobj.write("John@gmail.com");
        // writerobj.close();;
-       } catch(Exception e) {
-        System.out.println(e.getMessage());
+       } catch(Exception E) {
+        System.out.println(E.getMessage());
        }
         
     }
