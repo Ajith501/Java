@@ -1,0 +1,28 @@
+ProductTitles
+Apple iPhone 13 Blue
+Apple iPhone 13 Black
+Apple iPhone 15 Black
+Samsung S25
+Google Pixel 9
+Air frier
+Apple Macbook PRO M1
+Lenovo Thinkpad T14
+Apple Airpods 4 ANC
+Amazon - Database
+products - > Table
+title, Image, price, selling price, rating, stock - Table columns
+USers - > Table
+name, email, mobile, password
+Adresses -> Table 
+ Flat, Street, City, State,Zipcode, Country
+orders -> Table
+USers, products, paid, payment mode, order status
+Coupons -> Table
+Code, dicount, validity
+
+
+Youtube
+Likes
+USers
+COmments
+Videos
