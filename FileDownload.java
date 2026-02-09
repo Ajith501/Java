@@ -5,8 +5,8 @@ public class FileDownload {
            int s = files.length;
            while (i < s) {
             Downloader dd = new Downloader(files[i]);
-            Thread td = new Thread(dd);
-            td.start();
+            Thread t = new Thread(dd);
+            t.start();
             i++;
            }
 
